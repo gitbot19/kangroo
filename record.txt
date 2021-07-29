@@ -1,3 +1,6 @@
 record.txt
 lisa record feature 1 added by john
 john working on feature 2
+feature 2 done
+feature 3 work in progress
+
