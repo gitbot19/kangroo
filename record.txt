@@ -4,4 +4,6 @@ john working on feature 2
 feature 2 done
 feature 3 work in progress
 feature 4 work is completed
+added more stuff for releases
+relese 1 coming soon
 
